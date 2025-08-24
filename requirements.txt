@@ -5,3 +5,4 @@ plotly
 fpdf
 reportlab
 streamlit-authenticator
+sqlalchemy
